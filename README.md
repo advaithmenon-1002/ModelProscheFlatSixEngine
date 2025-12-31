@@ -1,4 +1,4 @@
-# ModelProscheFlatSixEngine
+# ModelPorscheFlatSixEngine
 Simple 3D printable model of a flat six engine without engine heads
 
 After learning AutoCAD at the start of my summer holidays, I wanted to make use of it and decided to make a model engine. I designed the parts around the below bearings:
