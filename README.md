@@ -7,7 +7,7 @@ After learning AutoCAD at the start of my summer holidays, I wanted to make use 
 - ⁠Con-rod bearings (bottom) - 609ZZ
 - ⁠Con-rod bearings (top) - 603ZZ
 
-However, if you can find appropriately sizes bushings, and can modify the files to fit, that would be a better approach. 
+However, if you can find appropriately sized bushings, and can modify the files to fit, that would be a better approach. 
 
 I then exported the AutoCAD drawings as ‘stl’ files, which have also been uploaded in this github repo. I then sliced them using UltiMaker Cura and printed them on a Creality Ender-3 3D printer.
 
